@@ -1,5 +1,5 @@
 # Moduł testy
 
-Odpowiedzialny: mateusz
+Odpowiedzialny: empezeeet
 Stan: GOTOWY
 Opis zmiany: sprawdzono podstawowe dzialanie scenariusza
