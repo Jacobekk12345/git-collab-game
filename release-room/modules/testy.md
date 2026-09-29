@@ -1,5 +1,5 @@
 # Moduł testy
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: mateusz
+Stan: GOTOWY
+Opis zmiany: sprawdzono podstawowe dzialanie scenariusza
