@@ -1,5 +1,5 @@
 # Moduł logika
 
-Odpowiedzialny: n3krofobia
-Stan: GOTOWY
-Opis zmiany: Dodano walidacje danych wejsciowych
+Odpowiedzialny: NIEPRZYDZIELONY
+Stan: NIEGOTOWY
+Opis zmiany: BRAK
