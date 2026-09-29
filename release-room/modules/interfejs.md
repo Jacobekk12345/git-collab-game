@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: Jacobekk12345
+Stan: GOTOWY
+Opis zmiany: dodac gui dla uzytkownika
