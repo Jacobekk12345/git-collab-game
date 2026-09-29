@@ -2,4 +2,4 @@
 
 Odpowiedzialny: n3krofobia
 Stan: GOTOWY
-Opis zmiany: Dodano walidacje danych wejsciowych
+Opis zmiany: Dodano walidację danych wejściowych.
